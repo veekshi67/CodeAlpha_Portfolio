@@ -27,9 +27,6 @@ This is my personal portfolio website built using **HTML and CSS**. It showcases
 
 👉 [View Portfolio](https://veekshi67.github.io/CodeAlpha_Portfolio/)
 
-## 📷 Screenshots
-
-(Add screenshots here if needed)
 
 ## 📞 Contact
 
